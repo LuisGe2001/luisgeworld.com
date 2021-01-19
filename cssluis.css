@@ -1,0 +1,38 @@
+<!-- CSS para body -->
+  		<style type="text/css">
+ 			body {color: white}
+    		body {background-color: #00BFFF }
+    		body {font-family: "Arial"}
+    		body {padding-left: 11em;}
+		</style>
+
+<!-- CSS para h1 -->
+		<style type="text/css">
+			h1 {font-family: "calibri"}
+		</style>
+
+<!-- CSS navegacion -->
+		<style type="text/css">
+			ul.navbar {position: absolute}
+			ul.navbar {top: 2em}
+			ul.navbar {left: 1em}
+			ul.navbar {width: 9em}
+			ul.navbar {list-style-type: none}
+			ul.navbar {padding: 0}
+			ul.navbar {margin: 0}
+		</style>
+<!-- CSS fondo navegacion (fondo blanco y un cuadrado negro)(azul enlaces no vistos)(morado enlaces vistos -->
+		<style type="text/css">
+		ul.navbar li {background: white}
+   		ul.navbar li {margin: 0.5em 0}
+    	ul.navbar li {padding: 0.3em}
+    	ul.navbar li {border-right: 1em solid black}
+
+ 		ul.navbar a {text-decoration: none}
+
+  		a:link {color: blue }
+		a:visited {color: purple}
+		address {margin-top: 1em}
+    	address {padding-top: 1em}
+    	address {border-top: thin dotted}
+    	</style>
