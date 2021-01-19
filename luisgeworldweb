@@ -1,0 +1,32 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+	<head>
+		<meta charset="UTF-8"/>
+  		<title>LuisGe´s World</title>
+  		<link rel="stylesheet" href="cssluis.css">
+	</head>
+
+	<body>
+
+		<!-- Menú de navegación del sitio -->
+		<ul class="navbar">
+ 			<li><a href="indice.html">Página principal</a>
+  			<li><a href="aficiones.html">Aficiones</a>
+  			<li><a href="fotos.html">fotos</a>
+  			<li><a href="contacto.html">contacto</a>
+		</ul>
+
+		<!-- Contenido principal -->
+		<h1><b>LuisGe´s World</b></h1>
+
+			<p><b>¡Bienvenido a LuisGe´s World!</b></p>
+
+			<p>la mejor pagina HTML porque la he hecho yo!</p>
+
+			<p><center> ¡ES ASI Y PUNTO!</center></p>
+
+		<!-- Firma y fecha de la página, ¡sólo por cortesía! -->
+		<address>Creada el 19 de Enero de 2021.</address>
+
+	</body>
+</html>
